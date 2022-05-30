@@ -1,4 +1,4 @@
-# bootcamp_project_2
+# ETL Project- Rent, Income and Eviction Rate Database
 
 ## Table of Contents
 1. [Background](#background)
